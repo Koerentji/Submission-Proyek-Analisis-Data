@@ -43,12 +43,12 @@ Dashboard ini tersedia secara online pada Streamlit Cloud: [Olist E-commerce Das
 ### Instalasi
 1. Clone repositori ini:
 
-git clone https://github.com/Koerentji/dashboard-olist-e-commerce.git
+git clone (https://github.com/Koerentji/Submission-Proyek-Analisis-Data.git)
 
 
 2. Pindah ke direktori proyek:
 
-cd dashboard-olist-e-commerce
+cd Submission-Proyek-Analisis-Data
 
 
 3. Buat virtual environment (direkomendasikan):
