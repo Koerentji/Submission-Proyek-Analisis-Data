@@ -10,7 +10,7 @@ Dashboard ini menyediakan analisis komprehensif untuk data e-commerce Brasil dar
 Dashboard ini tersedia secara online pada Streamlit Cloud: [Olist E-commerce Dashboard](https://dashboard-olist-e-commerce.streamlit.app/)
 
 ## Struktur Repositori
-
+```
 ├── dashboard/
 │   └── dashboard.py          # File utama aplikasi Streamlit
 │
@@ -33,7 +33,7 @@ Dashboard ini tersedia secara online pada Streamlit Cloud: [Olist E-commerce Das
 ├── README.md                 # Dokumentasi proyek
 ├── requirements.txt          # Daftar dependensi
 └── url.txt                   # URL repository
-
+```
 
 ## Petunjuk Penggunaan
 ### Prasyarat
