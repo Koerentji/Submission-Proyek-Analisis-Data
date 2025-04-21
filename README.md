@@ -1,4 +1,3 @@
-```markdown
 # Dashboard Analitik E-commerce Olist
 
 Dashboard ini menyediakan analisis komprehensif untuk data e-commerce Brasil dari Olist, yang mencakup berbagai aspek bisnis:
@@ -11,7 +10,7 @@ Dashboard ini menyediakan analisis komprehensif untuk data e-commerce Brasil dar
 Dashboard ini tersedia secara online pada Streamlit Cloud: [Olist E-commerce Dashboard](https://dashboard-olist-e-commerce.streamlit.app/)
 
 ## Struktur Repositori
-```
+
 ├── dashboard/
 │   └── dashboard.py          # File utama aplikasi Streamlit
 │
@@ -34,7 +33,7 @@ Dashboard ini tersedia secara online pada Streamlit Cloud: [Olist E-commerce Das
 ├── README.md                 # Dokumentasi proyek
 ├── requirements.txt          # Daftar dependensi
 └── url.txt                   # URL repository
-```
+
 
 ## Petunjuk Penggunaan
 ### Prasyarat
@@ -43,46 +42,46 @@ Dashboard ini tersedia secara online pada Streamlit Cloud: [Olist E-commerce Das
 
 ### Instalasi
 1. Clone repositori ini:
-```
+
 git clone https://github.com/Koerentji/dashboard-olist-e-commerce.git
-```
+
 
 2. Pindah ke direktori proyek:
-```
+
 cd dashboard-olist-e-commerce
-```
+
 
 3. Buat virtual environment (direkomendasikan):
-```
+
 python -m venv venv
-```
+
 
 4. Aktifkan virtual environment:
    - Windows:
-   ```
+   
    venv\Scripts\activate
-   ```
+   
    - macOS/Linux:
-   ```
+   
    source venv/bin/activate
-   ```
+   
 
 5. Pasang paket yang diperlukan:
-```
+
 pip install -r requirements.txt
-```
+
 
 ### Menjalankan Aplikasi
 1. Jalankan notebook.ipynb terlebih dahulu untuk menghasilkan data yang diproses:
-```
+
 jupyter notebook notebook/notebook.ipynb
-```
+
 
 2. Setelah notebook selesai dijalankan, jalankan dashboard:
-```
+
 cd dashboard
 streamlit run dashboard.py
-```
+
 
 Aplikasi akan terbuka di browser Anda secara otomatis, biasanya di `http://localhost:8501`.
 
@@ -132,4 +131,3 @@ Dataset yang digunakan adalah data publik dari Olist, marketplace e-commerce Bra
 
 ## Tentang Proyek
 Proyek ini dibuat sebagai bagian dari tugas akhir kursus Data Science. Tujuannya adalah untuk menunjukkan kemampuan dalam menganalisis data e-commerce dan menghasilkan dashboard yang interaktif dan informatif untuk pengambilan keputusan bisnis.
-```
